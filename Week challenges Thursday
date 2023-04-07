@@ -1,0 +1,26 @@
+Números📈
+
+1. introduce numero "num"
+2. "num" dividimos entre 2 
+3. preguntamos ¿num = 0 ?
+4. si es 0 imprimimos "es par"
+5. si es 1 imprimimos "es impar"
+
+
+Cuantos años tiene👴
+
+1. introducir año actual "aa"
+2. introducir fecha de nacimimiento "fn"
+3. una variable "edad" = a la resta de "aa" - "fn"
+4. imprimir "edad"
+
+
+Encuentra el tesoro👑
+
+nos dice que todos los mensajes son mentiras, 
+1. entonces el cofre izquierdo dice que el cofre del medio no tiene un tesoro
+2. el cofre del medio dice no todos tiene un tesoro
+3. el cofre de la derecha dice 2 tienen tesoro
+ahora analizamos las verdades
+1. si el cofre del medio no tiene tesoro y no todos tienen un tesoro y el ultimo cofre dice que 2 tienen tesoro
+2. entonces el cofre de la izquierda y de la derecha tienen tesoros 
