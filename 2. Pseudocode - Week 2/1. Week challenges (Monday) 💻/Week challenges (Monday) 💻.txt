@@ -1,0 +1,28 @@
+Logic problem
+
+Alice: "Nadie estudió matemáticas ayer".
+Bob: "1 persona estudió matemáticas ayer".
+Charlie: "2 personas estudiaron matemáticas ayer".
+Dan: "3 personas estudiaron matemáticas ayer".
+Eva: "Ayer estudiaron matemáticas 4 personas".
+
+El maestro sabe que solo los que estudiaron estarían diciendo la verdad y los que no, estarían mintiendo.
+quien esta diciendo la verdad?
+
+-Suponemos que alice dice la verdad entonces existe una contradiccion ya que alice tendria que haber estudiado para decir la verdad
+
+-Suponemos que Eva dice la verdad, 4 personas estudiaron, entonces existe otra contradiccion por que dan, charli y bob dicen que estudiaron menos personas
+
+-Entonces nos queda bob, si dice la verdad entonces una persona estudio y esa persona es charlie
+
+Por tanto una persona dice la verdad y 4 mienten
+
+
+
+Which comes first, cereal or milk?
+
+***** 2. Which comes first, cereal or milk? *******
+1. Busca un plato, leche y los cereales 
+2. Eche los cereales y la leche en el plato 
+3. Mezcle los ingredientes
+4. disfrute de su desayuno
