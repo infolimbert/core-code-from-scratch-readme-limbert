@@ -1,0 +1,15 @@
+Exercise
+Write a function toCase that takes a string and returns that string in lowercase and uppercase with - as delimiter.
+
+Example: toCase('Mthatha') should return 'mthatha-MTHATHA'.
+
+solution
+
+function toCase(valor){
+let toLower= valor.toLowerCase();
+let toUpper= valor.toUpperCase();
+
+return toLower+"-"+toUpper;
+}
+
+let res= toCase("Mthatha");

@@ -1,0 +1,15 @@
+.azul{
+    color: aqua;
+    font-size: 30px;
+}
+img{
+width: 100px;
+border-radius: 10px;
+float: left;
+margin: 10px;
+}
+
+#username{
+     color: black;
+     font-weight: bold;
+}

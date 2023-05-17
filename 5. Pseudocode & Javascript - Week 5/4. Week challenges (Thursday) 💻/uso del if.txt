@@ -1,0 +1,5 @@
+if (hour < 18) {
+  saludo = "BUEN DIA";
+} else {
+  saludo = "BUENAS NOCHES";
+}

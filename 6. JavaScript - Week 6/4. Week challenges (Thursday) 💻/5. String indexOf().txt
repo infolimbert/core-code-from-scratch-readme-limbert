@@ -1,0 +1,11 @@
+Ejercicio
+Escriba una función indexOfIgnoreCasetomando dos cadenas y determinando la primera aparición de la segunda cadena en la primera cadena. La función debe ser insensible a mayúsculas y minúsculas.
+
+Ejemplo: indexOfIgnoreCase('bit','it')y indexOfIgnoreCase('bit','IT')debería devolver 1.
+
+solution
+function indexOfIgnoreCase(s1, s2) {
+  let s1Lower = s1.toLowerCase();
+  let s2Lower = s2.toLowerCase();
+  return s1Lower.indexOf(s2Lower);
+}

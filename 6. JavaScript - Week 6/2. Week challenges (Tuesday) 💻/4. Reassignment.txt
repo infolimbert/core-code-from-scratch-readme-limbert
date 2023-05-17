@@ -1,0 +1,7 @@
+¿ Qué valor tiene xdespués de la ejecución del siguiente código?
+let x = 'Tic';
+x = 'Tac';
+x = 'Toe';
+
+solution 
+'Toe'
